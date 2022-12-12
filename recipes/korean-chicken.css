@@ -1,0 +1,24 @@
+.chicken {
+  width: 400px;
+  height: auto;
+}
+
+.intro {
+  font-weight: bold;
+  font-size: 12pt;
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.ing {
+  font-weight: lighter;
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+}
+
+.dir {
+  font-weight: lighter;
+  font-family: "Courier New", Courier, monospace;
+  text-align: left;
+}
